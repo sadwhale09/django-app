@@ -1,6 +1,6 @@
 # Django App
 
-Made with will to learn and the documentation
+Based od Django documentation
 
 ### Pre req:
 * See if django is installed
